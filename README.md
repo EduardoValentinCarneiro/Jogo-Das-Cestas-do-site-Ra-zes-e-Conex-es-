@@ -1,6 +1,6 @@
 # Jogo das Cestas de Frutas
 
-Feito por Eduardo Valentin Carneiro (Complemento do site "Raízes e Conexões".
+Feito por Eduardo Valentin Carneiro (Complemento do site "Raízes e Conexões").
 
 Criado com p5.js:
 
