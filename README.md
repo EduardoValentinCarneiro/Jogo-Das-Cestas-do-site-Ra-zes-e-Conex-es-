@@ -9,7 +9,7 @@ Este é um jogo interativo desenvolvido com p5.js, uma biblioteca JavaScript vol
 Como funciona:
 O jogador deve controlar diferentes cestas de frutas ao longo do jogo. Cada rodada é focada em uma cesta específica, e o objetivo é coletar as frutas certas, evitando as frutas podres que caem da parte superior da tela. O jogador tem três vidas, e o jogo termina após jogar com todas as cestas.
 
-Frutas presentes no jogo (Desenhados por min) maça, banana, melancia, milho:
+Frutas presentes no jogo (Desenhados por min) maça, banana, melancia, milho, cesta:
 
 Maçã – Primeira fruta do desafio
 
