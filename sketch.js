@@ -1,5 +1,5 @@
 let estado = "inicio";
-let tempoCesta = 15 * 60;
+let tempoCesta = 30 * 60;
 let tempoAtual = 0;
 let cestas = [];
 let frutas = [];
